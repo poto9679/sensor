@@ -1,0 +1,11 @@
+/* App.css */
+
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 전체 뷰포트 높이 */
+    background-color: #f3f4f6; /* 배경색, 필요에 따라 변경 가능 */
+    text-align: center;
+    font-family: 'Arial', sans-serif; /* 폰트, 필요에 따라 변경 가능 */
+}
