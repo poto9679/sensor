@@ -1,0 +1,36 @@
+.main-container{
+  padding-top: 60px;
+
+}
+
+.header-box{
+  background-color: #121929;
+  padding:10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #121929;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: calc(100% - 20px);
+  z-index: 1000;
+  box-sizing: border-box;
+  margin: 10px
+  
+}
+
+.title-box {
+  padding: 10px;
+  margin-right: 20px;
+}
+.time-box{
+  padiig: 10px;
+  
+}
+
+.header-box h1, .time-box{
+  margin: 0;
+  padding: 0;
+  color: white;
+}
